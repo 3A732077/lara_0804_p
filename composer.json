@@ -1,0 +1,12 @@
+{
+    "name": "rock0/lara_0804_p",
+    "authors": [
+        {
+            "name": "yu-jie shen",
+            "email": "rock.02130529@gmail.com"
+        }
+    ],
+    "require": {
+        "nesbot/carbon": "^2.39.0"
+    }
+}
